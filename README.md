@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning ... Fullstack development
 - 📫 Reach me through mail
-  ( gautamshivam196@gmail.com )
+   gautamshivam196@gmail.com 
   
 
 <!---

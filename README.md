@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @shivaoficial  Shivam Gautam
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning ... Fullstack development
-- Reach me through mail( gautamshivam196@gmail.com )
+- 📫 Reach me through mail
+- ( gautamshivam196@gmail.com )
   
 
 <!---
